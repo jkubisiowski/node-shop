@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\dev\udemy-node" t="IncludeFlat">
+      <e p="node_modules\body-parser" t="IncludeRecursive" />
+      <e p="node_modules\express" t="IncludeRecursive" />
+      <e p="node_modules\nodemon" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\body-parser" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\connect" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\express" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\express-serve-static-core" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\mime" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\node" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\range-parser" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\serve-static" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\nodejs\10.16.0\core-modules" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\nodejs\10.16.0\node-typings\node_modules\@types" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jakub\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
