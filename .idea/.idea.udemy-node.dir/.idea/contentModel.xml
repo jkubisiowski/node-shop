@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\dev\udemy-node" t="IncludeFlat">
+      <e p="node_modules\@types" t="IncludeRecursive">
+        <e p="babel-types" t="IncludeRecursive" />
+      </e>
       <e p="node_modules\body-parser" t="IncludeRecursive" />
+      <e p="node_modules\ejs" t="IncludeRecursive" />
       <e p="node_modules\express" t="IncludeRecursive" />
+      <e p="node_modules\express-handlebars" t="IncludeRecursive" />
       <e p="node_modules\nodemon" t="IncludeRecursive" />
+      <e p="node_modules\pug" t="IncludeRecursive" />
     </e>
     <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\body-parser" t="IncludeRecursive" />
     <e p="C:\Users\Jakub\.Rider2019.3\config\javascript\extLibs\global-types\node_modules\@types\connect" t="IncludeRecursive" />
